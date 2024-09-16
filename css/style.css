@@ -20,7 +20,7 @@
 
 }
 
-.container{
+.container {
     max-width: 100%;
     background-color: rgba(174, 169, 169, 0.949);
 }
@@ -47,15 +47,32 @@
 .col {}
 
 .youtube {}
-span{
+
+span {
     font-size: 40px;
 }
-li{
+
+li {
     margin-bottom: 10px;
+
 }
-.section-second{
-    background-color: rgba(174, 169, 169, 0.949);;
+
+.second {
+    max-width: 100%;
+    background-color: rgba(174, 169, 169, 0.949);
+
 }
+
+}
+
+.col {}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
 
 
 @media screen {}
