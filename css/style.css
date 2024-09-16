@@ -47,6 +47,15 @@
 .col {}
 
 .youtube {}
+span{
+    font-size: 40px;
+}
+li{
+    margin-bottom: 10px;
+}
+.section-second{
+    background-color: rgba(174, 169, 169, 0.949);;
+}
 
 
 @media screen {}
