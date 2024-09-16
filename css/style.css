@@ -74,6 +74,10 @@ li {
     justify-content: space-around;
     padding: 15px;
 }
+.fb, .tw, .ig, .p, .y{
+    width: 50px;
+}
+
 
 .fb {
     color: blue;
@@ -108,6 +112,24 @@ li {
 
 }
 
+.tablet {
+    display: none;
+}
 
 
-@media screen {}
+
+@media screen and (min-width: 768px) {
+    .tablet {
+        display: inline-block;
+    }
+
+    .logo {
+        font-size: 12rem;
+    }
+    .fb, .tw, .ig, .p, .y{
+        width: 100px;
+    }
+
+
+
+}
