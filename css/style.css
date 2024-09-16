@@ -74,7 +74,12 @@ li {
     justify-content: space-around;
     padding: 15px;
 }
-.fb, .tw, .ig, .p, .y{
+
+.fb,
+.tw,
+.ig,
+.p,
+.y {
     width: 50px;
 }
 
@@ -119,16 +124,47 @@ li {
 
 
 @media screen and (min-width: 768px) {
+    .header {}
+
     .tablet {
         display: inline-block;
     }
 
     .logo {
-        font-size: 12rem;
+        font-size: 7rem;
     }
-    .fb, .tw, .ig, .p, .y{
-        width: 100px;
+
+    .fb {
+        color: blue;
+        font-size: 2rem;
     }
+
+    .tw {
+        color: deepskyblue;
+        font-size: 2rem;
+    }
+
+    .ig {
+        color: deeppink;
+        font-size: 2rem;
+    }
+
+    .p {
+        color: red;
+        font-size: 2rem;
+    }
+
+    .y {
+        color: red;
+        font-size: 2rem;
+    }
+
+    .banner {
+        display: block
+    }
+
+
+
 
 
 
