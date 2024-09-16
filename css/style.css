@@ -16,45 +16,37 @@
     margin: 30px;
     font-size: 7rem;
     text-align: center;
-    
-    
+
+
 }
 
-.container-tiramisu {
+.container{
     max-width: 100%;
     background-color: rgba(174, 169, 169, 0.949);
 }
 
-.row {
-    
-}
+.row {}
 
 .menu {
     color: gray;
     font-size: 2rem;
     margin-bottom: 2px;
-    
-    
+
+
 }
 
 .title {
     color: rgb(53, 45, 60);
     font-size: 4rem;
     margin-bottom: 2px;
-    
+
 
 
 }
 
 .col {}
 
-.youtube {
-    
-    
-}
-.in-breve{
-    font-size: 1rem;
-}
-@media screen {
-    
-}
+.youtube {}
+
+
+@media screen {}
