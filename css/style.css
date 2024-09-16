@@ -5,13 +5,13 @@
 }
 
 .header {
-    max-width: 100%;
+    max-width: 320px;
     background-color: white;
 
 }
 
 .logo {
-    max-height: 900px;
+    max-height: 320px;
     color: orange;
     font-family: cursive;
     margin: 30px;
@@ -22,7 +22,7 @@
 }
 
 .container {
-    max-width: 100%;
+    max-width: 320%;
     background-color: rgba(174, 169, 169, 0.949);
 }
 
