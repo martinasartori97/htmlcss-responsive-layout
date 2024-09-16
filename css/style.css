@@ -7,6 +7,7 @@
 .header {
     max-width: 100%;
     background-color: white;
+
 }
 
 .logo {
@@ -71,6 +72,40 @@ li {
     display: flex;
     justify-content: center;
     justify-content: space-around;
+    padding: 15px;
+}
+
+.fb {
+    color: blue;
+}
+
+.tw {
+    color: deepskyblue;
+}
+
+.ig {
+    color: deeppink;
+}
+
+.p {
+    color: red;
+}
+
+.y {
+    color: red;
+}
+
+.presentation {
+    color: black;
+    margin-left: 100px;
+    margin-top: 3rem;
+}
+
+.hr {}
+
+.piatto {
+    width: 50%;
+
 }
 
 
