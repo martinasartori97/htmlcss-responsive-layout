@@ -22,13 +22,27 @@
 }
 
 .row {}
-.menu{
+
+.menu {
     color: gray;
     font-size: 2rem;
+    padding: 0, 5rem;
+    margin-bottom: 2rem;
 }
-.title{
+
+.title {
     color: rgb(53, 45, 60);
     font-size: 4rem;
+    margin-bottom: 2rem;
+    padding: 0, 5rem;
+
 }
 
 .col {}
+
+.youtube {
+    padding: 2rem;
+}
+@media screen {
+    
+}
